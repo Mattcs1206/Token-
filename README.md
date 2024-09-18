@@ -1,2 +1,2 @@
 # Token-
-Repositorio para entrar no repositorio sem precisar fazer login
+Repositorio aonde da pra entrar sem precisar fazer login
